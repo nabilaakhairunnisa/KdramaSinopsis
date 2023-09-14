@@ -1,0 +1,88 @@
+<resources>
+
+    <string name="app_name">Kdrama Sinopsis</string>
+    <string name="drama_title">Kdrama Title</string>
+    <string name="sinopsis">Sinopsis</string>
+
+    <string name="list">List</string>
+    <string name="about">About</string>
+
+    <string-array name="data_title">
+        <item>Black Knight (2023)</item>
+        <item>Eighteen Again (2020)</item>
+        <item>Kill It (2019)</item>
+        <item>Mouse (2021)</item>
+        <item>Moving (2023)</item>
+        <item>Revenant (2023)</item>
+        <item>Shadow Beauty (2021)</item>
+        <item>Trap (2019)</item>
+        <item>True Beauty (2021)</item>
+        <item>Weak Hero (2022)</item>
+    </string-array>
+
+        <string-array name="data_episodes">
+            <item>Episodes: 6</item>
+            <item>Episodes: 16</item>
+            <item>Episodes: 12</item>
+            <item>Episodes: 20</item>
+            <item>Episodes: 20</item>
+            <item>Episodes: 12</item>
+            <item>Episodes: 13</item>
+            <item>Episodes: 7</item>
+            <item>Episodes: 16</item>
+            <item>Episodes: 8</item>
+        </string-array>
+
+        <string-array name="data_network">
+            <item>Network: Netflix</item>
+            <item>Network: JTBC</item>
+            <item>Network: OCN</item>
+            <item>Network: tvN</item>
+            <item>Network: Disney+</item>
+            <item>Network: SBS</item>
+            <item>Network: KakaoTv</item>
+            <item>Network: OCN</item>
+            <item>Network: tvN</item>
+            <item>Network: Wavve</item>
+        </string-array>
+
+        <string-array name="data_cast">
+            <item>Cast:\n- Kim Woo-Bin\n- Song Seung-Heon\n- Kang You-Seok\n- Esom</item>
+            <item>Cast:\n- Kim Ha-Neul\n- Yoon Sang-Hyun\n- Lee Do-Hyun</item>
+            <item>Cast:\n- Jang Ki-Yong\n- Nana\n- Roh Jeong-Eui\n- Lee Jae-Won</item>
+            <item>Cast:\n- Lee Seung-Gi\n- Lee Hee-Jun\n- Park Ju-Hyun\n-  Kyung Soo-Jin</item>
+            <item>Cast:\n- Ryoo Seung-Ryong\n- Han Hyo-Joo\n- Zo In-Sung\n- Cha Tae-Hyun\n- Ryoo Seung-Bum</item>
+            <item>Cast:\n- Kim Tae-Ri\n- Oh Jung-Se\n- Hong Kyung</item>
+            <item>Cast:\n- Shim Dal-Gi\n- Choi Bo-Min\n- Lee Na-Gyung\n- Hur Jung-Hee\n- Yang Hong-Seok</item>
+            <item>Cast:\n- Lee Seo-Jin\n- Sung Dong-Il\n- Lim Hwa-Young	Seo\n- Young-Hee\n- Oh Ryoong</item>
+            <item>Cast:\n- Mun Ka-Young\n- Cha Eun-Woo\n- Hwang In-Yeop\n- Park Yoo-Na</item>
+            <item>Cast:\n- Park Ji-Hoon\n- Choi Hyun-Wook\n- Hong Kyung\n- Lee Yeon\n- Shin Seung-Ho</item>
+        </string-array>
+
+    <string-array name="data_sinopsis">
+        <item>Sinopsis:\nSet in the year 2071, where the world has been decimated by toxic air pollution. Only about 1 percent of the population has survived and a strict social class now exists. People rarely leave their homes and, when they do, they wear gas masks due to the air pollution. Citizens rely heavily on parcel delivery service for their needs. Delivery drivers, known as knights, delivers the packages and also protect them from thieves.</item>
+        <item>Sinopsis:\nJung Da-Jung (Kim Ha-Neul) is married to 37-year-old Hong Dae-Young (Yoon Sang-Hyun). They have have 18-year-old son and daughter. Jung Da-Jung works hard as a rookie announcer and she has a warm heart. She becomes completely fed up with her husband and is unable to deal with him anymore. Hong Dae-Young got fired from his job and he is looked down upon by his family. Jung Da-Jung hands him divorce papers.</item>
+        <item>Sinopsis:\nKim Soo-Hyun (Jang Ki-Yong) is an elite assassin. He kills his targets and disappears. His identity like race, age or name is unknown to others. Individuals, gangs and organizations from all over the world hire Kim Soo-Hyun. Deep within his mind, he wants to have affection from people. Now, Kim Soo-Hyun has to kill to find his family.</item>
+        <item>Sinopsis:\nA suspenseful story that asks the key question, “What if we could identify psychopaths in advance?” A crazed serial killer’s ruthless murders have left the entire nation gripped with fear, and chaos reigns. Justice-seeking rookie police officer, Jung Ba Reum, comes face to face with the killer. While he survives his dangerous encounter with the psychopath, Jung Ba Reum finds his life completely changing before his eyes. (Source: MyDramaList)</item>
+        <item>Sinopsis:\nKim Bong-Seok, Jang Hui-Soo and Lee Gang-Hoon attend the same high school. They look like ordinary students, but they have special abilities that they inherited from their parents. Kim Bong-Seok has the ability to fly. Jang Hui-Soo has excellent athletic abilities and she is able to rapidly recover from injuries, like being shot or stabbed. Lee Gang-Hoon has uncanny power and speed.</item>
+        <item>Sinopsis:\nWhen the door to another world opens, demons exists there. Gu San-Yeong (Kim Tae-Ri), is possessed by one of those demon. Yeom Hae-Sang (Oh Jung-Se) can see the demon which has possessed Gu San-Yeong. They try to figure out the truth behind the mysterious deaths related to the five sacred objects.</item>
+        <item>Sinopsis:\nAe-Jin (Shim Dal-Gi) is a high school student. Students call her ugly and she is bullied by them. The only friend she has at school is Jin-Sung (Yang Hong-Seok). Ae-Jin also has a secret which nobody knows about. Her secret is that she is famous and popular social media influencer Genie, who has more than 770,000 followers. Ae-Jin makes her selfies look beautiful by photoshopping her pictures and then posting them on social media as Genie.</item>
+        <item>Sinopsis:\nKang Woo-Hyun (Lee Seo-Jin) is a respected anchor at a broadcasting station. He has a lovely family and he is asked to enter the political field. His life seems perfect. One day, he goes on a trip with his family and a tragic situation occurs. Meanwhile, Ko Dong-Kook (Sung Dong-Il) is a veteran detective. He takes Kang Woo-Hyuns case and investigates.</item>
+        <item>Sinopsis:\nIm Ju-Kyung is a high school student. Since she was little, she has had a complex about her appearance. To hide her bare face, Im Ju-Kyung always wears make-up. Her excellent make-up skills makes her pretty and she hides her bare face in front others. She gets involved with 2 men; Lee Soo-Ho and Han Seo-Joon.</item>
+        <item>Sinopsis:\nYeon Shi Eun is a model student who ranks at the top of his high school. Physically, Yeon Shi Eun appears weak, but by using his wits and psychology, he fights against the violence that takes place inside and outside of his school. (Source: Asianwiki)</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/black_knight</item>
+        <item>@drawable/eighteen_again</item>
+        <item>@drawable/kill_it</item>
+        <item>@drawable/mouse</item>
+        <item>@drawable/moving</item>
+        <item>@drawable/revenant</item>
+        <item>@drawable/shadow_beauty</item>
+        <item>@drawable/trap</item>
+        <item>@drawable/true_beauty</item>
+        <item>@drawable/weak_hero</item>
+    </integer-array>
+
+</resources>
